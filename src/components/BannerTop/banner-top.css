@@ -1,0 +1,17 @@
+.box-banner-top {
+    background-image: url(../../assets//bg-banner-top.png);
+    background-position: 180% center;
+}
+
+
+.img-banner-top {
+    object-fit: cover;
+    /* object-position: bottom -18px right 0px; */
+    height: 100%;
+
+    position: relative;
+    z-index: 65;
+}
+
+
+
